@@ -1,2 +1,0 @@
-# .github
-BetweenUS general introduction
